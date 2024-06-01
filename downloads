@@ -2,8 +2,8 @@
 <html>
 <h1>Downloads</h1>
 <h2>Most of these projects are from from college or from my personal stuff</h2>
-<a href="circalc.exe" download>
-  <img src="circle.png" alt="circalc" width="104" height="142">
+<a href="/main/circalc.exe" download>
+  <img src="/main/circle.png" alt="circalc" width="104" height="142">
 </a>
 
 </html>
